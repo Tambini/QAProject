@@ -1,0 +1,56 @@
+		 .nav {
+    	background-color: #26aec2;
+    	color: #A9c933;
+    	list-style: none;
+    	text-align: left;
+    	font-family: Merriweather;
+    	padding: 40px 0 40px 0;
+    	margin: 0;
+  		}
+  		.nav > li {
+   	 	display: inline-block;
+    	padding-right: 50px;
+    	padding-left: 50px;
+    	text-decoration: none;
+  		}
+  		.nav > li > a {
+   		 text-decoration: none;
+   		 }
+
+		img
+		{width: 400px;
+		 height: 400px;
+		 }
+
+
+		 th
+		 {
+		 	font-family: Palatino, URW;
+		 	font-size: 4em;
+		 	color: #26aec2;
+		 	background-color: #AEB6BF;
+		 	padding: 50px;
+		 }
+
+		 body
+		 {
+		 	font-family: sans-serif;
+		 	color: #26aec2;
+		 	font-size: 1em
+		 	text-align: center;
+		 	background-color: white;
+		 }
+
+		 table
+		 {
+		 	background-color: white;
+		 	width: 50%;
+		 }
+
+		 td{
+
+		 	padding: 50px;
+		 }
+
+
+
